@@ -6,7 +6,7 @@
 
 ## About
 
-Prosper is a peer-to-peer lending platform that aims to connect people who need money with those people who have the money to invest. In this data analysis project, In my Tableau story I have done exploration on the relationship between loans and the people acquiring them, the reasons for taking out a loan and who defaults the most. I have given a brief insight into the people acquiring loans by looking at the debt levels by state as well as the amount of money borrowed over the past few years looking at whether or not people were homeowners. I explored the reasons that people have for taking out loans as well as who is most likely to default based on their occupation and income range. Breaking down the number of defaulters by occupation it seems that college student have the highest borrower and default rates.
+Prosper is a peer-to-peer lending platform that aims to connect people who need money with those people who have the money to invest. In this data analysis project, In my Tableau story I have done exploration on the relationship between loans and the people acquiring them, the reasons for taking out a loan and who defaults the most. I have given a brief insight into the people acquiring loans by looking at the debt levels by state. I explored the reasons that people have for taking out loans as well as who is most likely to default based on their occupation and income range. Breaking down the number of defaulters by occupation it seems that college student have the highest borrower and default rates.
 
 ## Dataset
 
@@ -39,7 +39,7 @@ In order to see whether each state had the similar tread or not, I chose to use 
 
 ## Feedback
 
-I shared my first sketch on slack group and sent it to two of my friends.
+I shared my first sketch on Udacity slack group and sent it to two of my friends.
 
 1.  In your first graph where you have map was to not very obvious.
 
